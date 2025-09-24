@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\student\Desktop\mxchhh\Source.c(9,6): warning C4101: dom: неиспользованная локальная переменная
+C:\Users\student\Desktop\mxchhh\Source.c(38,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\student\Desktop\mxchhh\Source.c(32,1): warning C4305: инициализация: усечение из "double" в "float"
